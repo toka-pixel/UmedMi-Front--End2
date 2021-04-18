@@ -1,0 +1,32 @@
+/********** style of arabic page **************/
+body{
+    font-family: 'Almarai';
+}
+.carousel-caption .more{
+  
+    font-size: 16px;
+    padding: 0 35px;
+}
+
+
+
+.section1{
+    text-align: right;
+}
+.section1 h4 ,.service h4,.works h4 ,.comments h4 ,.news h4,.carousel-caption h1, .carousel button ,.news .self-content h3 a{
+    font-family: 'Almarai';
+}
+.comments h6{
+    
+    font-weight: bold;
+  
+}
+.carousel-caption h1{
+ font-weight: 900;
+}
+.news .self-content h3 a, footer {
+    text-align: right;
+}
+footer ul{
+    float:right;
+}
